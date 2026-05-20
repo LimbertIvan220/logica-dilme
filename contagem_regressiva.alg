@@ -1,5 +1,3 @@
-// Faça uma contagem regressiva de um dado numero 
-// até o numero 1 e mostre para o usuário
 algoritmo "ContagemRegressiva"
 var
   contador: inteiro
